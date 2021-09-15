@@ -1,0 +1,95 @@
+h1 > a{
+    color: red;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-weight: italic;
+    text-decoration: none;
+    line-break: loose;
+    line-height: 10px;
+    margin-top: 20px;
+    
+}
+
+header h2{
+    color:black;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    line-height: 10px;
+    
+    
+}
+
+span{
+    font-size: 62px;
+    color:lightgray
+    float: left;
+}
+
+
+nav > a{
+    color: lightgrey;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    line-height: 1px;
+    margin: 3px;
+   
+    
+}
+
+article h3{
+    color:grey;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: x-large;
+    line-height: 1px;
+    margin-top: 80px;
+   
+}
+
+
+ article h2 > a{
+    color: black;
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-decoration: none;
+    line-height: 1px;
+}
+
+P{
+    color:grey;     
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    word-wrap: auto;
+
+      
+}
+
+article h4 > a {
+    color:red;
+    float:right;
+    text-decoration: none;
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+    line-height: 50px;
+    
+}
+
+footer nav > a{
+    color:red;
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+    font-weight:400;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 100px;
+}
+
+hr{
+    clear: both;
+}
+
+article > p::first-letter{
+    font-size: 90px;
+    color: lightgray;
+    
+  
+ 
+}
+
